@@ -1,0 +1,6 @@
+
+Delay Warning Email
+To: All Passengers of Train 1
+Subject: TRAIN DELAY ALERT
+Message: Please be advised that train 1 is currently experiencing delays. 
+

@@ -11,7 +11,7 @@ The application runs entirely in memory without relying on an external database,
 
 ---
 
-## Features & Assignment Fulfillment
+## Features
 
 ### A) Ticket Booking System (`BookingTickets.java`)
 * Allows users to book one or multiple tickets for a specific train.
